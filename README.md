@@ -4,7 +4,7 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 
 **steps to install it in termux** :
 1. apt install python git -y
-2. git clone https://github.com/Sanif007/hackersms
+2. git clone https://github.com/HackyAbinash/hackersms
 3. pip install requests
 4. cd hackersms
 5. python sms.py
